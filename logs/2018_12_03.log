@@ -1,0 +1,53 @@
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 1 min 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:17:39.798Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:18:39.791Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 1 min 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:18:57.357Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:19:57.359Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:20:57.359Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-12-03T10:21:57.359Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+

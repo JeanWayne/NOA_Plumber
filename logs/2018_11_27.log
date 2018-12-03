@@ -1,0 +1,185 @@
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------
+[0m
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 10 sec 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------[0m2018-11-27T13:06:36.253Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------[0m2018-11-27T13:06:46.251Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution --------------[0m2018-11-27T13:06:56.251Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]   every 1 min 
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-11-27T13:07:12.174Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - [43m[30m-------------- Run Timed Execution -------------- [0m2018-11-27T13:08:12.176Z
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+

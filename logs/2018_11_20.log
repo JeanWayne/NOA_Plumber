@@ -1,0 +1,256 @@
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Executing Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Executing Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading MongoOperation: [ Mongo DROP ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading MongoOperation: [ Mongo DROP ]
+INFO - Loading MongoOperation: [ Mongo Copy ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading MongoOperation: [ Mongo DROP ]
+INFO - Loading MongoOperation: [ Mongo Copy ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Executing Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Executing Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - -------------- Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Loading END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ null ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading Program: [ PaperParser ]
+INFO - Loading Program: [ PaperDownloader ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [33mnull[0m ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading MongoOperation: [ [33mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [33mMongo Copy[0m ]
+INFO - Loading Program: [ [33mPaperParser[0m ]
+INFO - Loading Program: [ [33mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [33mnull[0m ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading MongoOperation: [ [33mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [33mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading MongoOperation: [ [33mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [33mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+INFO - -------------- Prog Loading START --------------
+INFO - Loading MongoOperation: [ [33mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [33mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Init Pipeline: [ [36mtestPipe[0m ]
+
+INFO - -------------- Prog Loading START --------------
+INFO - Loading FS-Operation: [ [33mMove File[0m ]
+INFO - Loading MongoOperation: [ [31mMongo DROP[0m ]
+INFO - Loading MongoOperation: [ [31mMongo Copy[0m ]
+INFO - Loading Program: [ [31mPaperParser[0m ]
+INFO - Loading Program: [ [31mPaperDownloader[0m ]
+INFO - -------------- Prog Loading END --------------
+
+INFO - -------------- Prog Execution START --------------
+INFO - -------------- Prog Execution END --------------
+

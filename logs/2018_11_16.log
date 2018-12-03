@@ -1,0 +1,25 @@
+INFO - Loading : [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ program1 ]
+INFO - Loading Program: [ program2 ]
+INFO - Executing Program: [ program1 ]
+INFO - Executing Program: [ program1 ] ---- DONE!
+INFO - Executing Program: [ program2 ]
+INFO - Executing Program: [ program2 ] ---- DONE!
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ program1 ]
+INFO - Loading Program: [ program2 ]
+INFO - Executing Program: [ program1 ]
+INFO - Executing Program: [ program1 ] ---- DONE!
+INFO - Executing Program: [ program2 ]
+INFO - Executing Program: [ program2 ] ---- DONE!
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Executing Program: [ PaperParser ]
+INFO - Executing Program: [ PaperParser ] ---- DONE!
+INFO - Loading File: [ C:\_NOA\NOA_v2\pipe.json ]
+INFO - Loading Pipeline: [ testPipe ]
+INFO - Loading Program: [ PaperParser ]
+INFO - Executing Program: [ PaperParser ]
